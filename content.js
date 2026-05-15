@@ -8,7 +8,7 @@ window.PORTFOLIO = {
 
   // Set this once you push the portfolio repo to GitHub.
   // Example: "https://github.com/elkheer78/pt3-portfolio"
-  repoBaseUrl: "",
+  repoBaseUrl: "https://github.com/omarzhamed/portfolio_project.git",
 
   about: {
     headline: "I build practical apps and AI projects — with clean UX and solid engineering.",
@@ -29,7 +29,7 @@ window.PORTFOLIO = {
   email: "elkheer78@gmail.com",
 
   socials: [
-    { label: "GitHub", url: "https://github.com/elkheer78" },
+    { label: "GitHub", url: "https://github.com/omarzhamed" },
     { label: "LinkedIn", url: "https://eg.linkedin.com/in/omar-hamed-2b4a9731b" },
   ],
 
